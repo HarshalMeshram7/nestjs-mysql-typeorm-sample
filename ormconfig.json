@@ -1,10 +1,10 @@
 {
     "type": "mysql",
-    "host": "localhost",
+    "host": "testdemomysql.mysql.database.azure.com",
     "port": 3306,
-    "username": "root",
-    "password": "",
-    "database": "test_nestjs2",
+    "username": "harshal",
+    "password": "Meshram@112",
+    "database": "testdb",
     "entities": ["dist/**/*.entity{.ts,.js}"],
     "synchronize": true
 }
